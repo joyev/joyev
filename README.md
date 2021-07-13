@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @joyev
+- 👋 Hi, I’m @joshv
 - 👀 I’m interested in ... Learning to Code
 - 🌱 I’m currently learning ... Javascript/HTML, Back End & Front End
 - 💞️ I’m looking to collaborate on ... any Code related to Javascript/HTML
