@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Josh
 - 👀 I’m interested in ... Learning to Code
 - 🌱 I’m currently learning ... Javascript/HTML/CSS.
-- 💞️ I’m looking to collaborate on ... any Code related to Javascript/HTML
+- 💞️ I’m looking to collaborate on ... any Code related to Javascript/HTML/CSS
 - 📫 How to reach me ... 
 
 <!---
