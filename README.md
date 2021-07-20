@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Josh
 - 👀 I’m interested in ... Learning to Code
-- 🌱 I’m currently learning ... Javascript/HTML, Back End & Front End
+- 🌱 I’m currently learning ... Javascript/HTML/CSS, Back End & Front End
 - 💞️ I’m looking to collaborate on ... any Code related to Javascript/HTML
 - 📫 How to reach me ... 
 
